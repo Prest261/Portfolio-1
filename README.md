@@ -13,9 +13,9 @@
   This website is meant to be used for creating a professional portfolio.
   
 ### Credits
-  W3Schools Tutorials
-  My amazing instructors and TA's
-  Stack Overflow
+  * W3Schools Tutorials
+  * My amazing instructor and TA's
+  * Stack Overflow
   
 ### Liscense
 
